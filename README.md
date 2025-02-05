@@ -23,7 +23,7 @@ Note: code was originally processed in Google Colab, cells may require adjustmen
 2. Load the dataset (place `Netflix.csv` in the working directory).
 3. Run the Jupyter Notebook:
    ```sh
-   jupyter notebook Netflix_ML_Workshop.ipynb
+   jupyter notebook NetflixRecommendationSystem.ipynb
    ```
 
 ## Usage
