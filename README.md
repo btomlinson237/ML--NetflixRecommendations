@@ -1,4 +1,4 @@
-# Netflix Recommendation System
+# Machine Learning-Powered Netflix Recommendation System
 
 ## Overview
 This project builds a machine learning-based recommendation system for Netflix movies. It explores clustering techniques and similarity measures to recommend movies based on textual and numerical features.
